@@ -16,9 +16,7 @@
     }
   },
   "require": {
-    "php" : "^7.0",
-    "ext-pdo" : "*",
-    "ext-pdo_pgsql": "*"
+    "php" : "^7.0"
   },
   "require-dev": {
     "phpunit/phpunit": "*"
