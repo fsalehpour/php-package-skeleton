@@ -18,5 +18,10 @@
   },
   "require-dev": {
     "phpunit/phpunit": "*"
-  }
+  },
+  "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
 }
