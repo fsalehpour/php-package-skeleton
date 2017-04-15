@@ -1,8 +1,6 @@
 {
   "name": "fsalehpour/php-package-skeleton",
   "description": "A skeleton for writing php packages",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
