@@ -1,5 +1,5 @@
 {
-  "name": "fsalehpour/php-package-skeleton",
+  "name": "fsalehpour/",
   "description": "A skeleton for writing php packages",
   "license": "MIT",
   "authors": [
@@ -8,6 +8,8 @@
       "email": "subs@marz.co"
     }
   ],
+  "prefer-stable": true,
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "FSalehpour\\PackageName\\": "src/"
@@ -17,11 +19,6 @@
     "php" : "^7.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "*"
+    
   },
-  "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "optimize-autoloader": true
-    }
 }
