@@ -1,5 +1,5 @@
 {
-  "name": "fsalehpour/",
+  "name": "fsalehpour/package-name",
   "description": "A skeleton for writing php packages",
   "license": "MIT",
   "authors": [
@@ -20,5 +20,5 @@
   },
   "require-dev": {
     
-  },
+  }
 }
